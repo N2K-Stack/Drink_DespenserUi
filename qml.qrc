@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/Assets/coffee-beans.png</file>
+        <file>UI/Assets/coffee-cup.png</file>
+        <file>UI/Assets/cold.png</file>
+        <file>UI/Assets/drop.png</file>
+        <file>UI/Assets/hot.png</file>
+        <file>UI/Assets/previousCold.png</file>
+        <file>UI/Assets/previousHot.png</file>
+        <file>UI/Assets/resetCold.png</file>
+        <file>UI/Assets/resetHot.png</file>
+        <file>UI/Assets/snowflake.png</file>
+        <file>UI/Assets/soda.png</file>
+        <file>UI/Assets/softdrinks.png</file>
+        <file>UI/Assets/tea.png</file>
+        <file>UI/Assets/tickCold.png</file>
+        <file>UI/Assets/tickHot.png</file>
+        <file>UI/Assets/wifi.png</file>
+    </qresource>
+</RCC>
