@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
         <file>UI/Assets/coffee-beans.png</file>
         <file>UI/Assets/coffee-cup.png</file>
         <file>UI/Assets/cold.png</file>
@@ -17,5 +16,8 @@
         <file>UI/Assets/tickCold.png</file>
         <file>UI/Assets/tickHot.png</file>
         <file>UI/Assets/wifi.png</file>
+        <file>UI/HotColdSelectionPage.qml</file>
+        <file>UI/main.qml</file>
+        <file>UI/Statusbar.qml</file>
     </qresource>
 </RCC>
